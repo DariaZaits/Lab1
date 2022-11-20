@@ -1,4 +1,4 @@
-package itmo.java.basics.Lab2;
+package itmo.java.basics.Lab2.Task1;
 
 public class Calculator {
     void sum( int a, int b)

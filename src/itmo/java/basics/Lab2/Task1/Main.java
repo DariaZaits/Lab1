@@ -1,4 +1,6 @@
-package itmo.java.basics.Lab2;
+package itmo.java.basics.Lab2.Task1;
+
+import itmo.java.basics.Lab2.Task1.Calculator;
 
 public class Main {
     public static void main(String[] args) {
